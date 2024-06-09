@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973663036489",
+    "firebase_url": "https://app-hoctienganh-android-default-rtdb.firebaseio.com",
+    "project_id": "app-hoctienganh-android",
+    "storage_bucket": "app-hoctienganh-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973663036489:android:d250a9f19c033badf50b98",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973663036489-2a7eph3esfi4qiiki8iop6mgn83aekjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkU378RuCgi5rloyC3nj4ZonIG6Jcr6is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973663036489-2a7eph3esfi4qiiki8iop6mgn83aekjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
